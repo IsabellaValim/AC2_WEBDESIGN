@@ -1,0 +1,23 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.card {
+    width: 18rem;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.centraliz {
+    display: flex;
+    justify-content: space-evenly
+}
+
+.but {
+    margin-bottom: 110px;
+}
